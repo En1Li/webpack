@@ -8,6 +8,7 @@ import $ from 'jquery'
 import '../src/styles/index.css'
 import './styles/index.less'
 import './assets/assets/fonts/iconfont.css'
+import './app.vue'
 $('#swiper').css('background' , 'red')
 
 import imgUrl from '../src/assets/assets/1.gif';
